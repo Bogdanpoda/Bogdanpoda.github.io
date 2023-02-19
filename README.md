@@ -1,2 +1,3 @@
-# MiniProjectSOEN357
+# Bogdanpda.github.io
+
 SOEN 357
